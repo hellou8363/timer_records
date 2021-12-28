@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap");
+body {
+  margin: 0px;
+}
+.container {
+  width: 350px;
+  margin: auto;
+}
+.timerCover {
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin: 30px;
+  background: rgb(255, 255, 127);
+}
+.timeView {
+  height: 50px;
+  margin: 30px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background: white;
+  text-align: right;
+  padding: 0px 10px 0px 10px;
+}
+#time {
+  font-family: "Dongle", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+}
+.buttons {
+  margin: 15px;
+  padding-left: 18px;
+  position: relative;
+}
+input {
+  padding: 5px 10px 5px 10px;
+  margin: 5px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: rgb(176, 246, 255);
+  font-family: "Dongle", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+#recordsCover {
+  width: 80%;
+  height: 100%;
+  margin: auto;
+}
+#recordList {
+  text-align: center;
+  font-family: "Dongle", sans-serif;
+  font-size: 30px;
+}
+#record {
+  border-radius: 50%;
+  height: 20px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
