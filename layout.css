@@ -28,7 +28,7 @@ body {
 }
 .buttons {
   margin: 15px;
-  padding-left: 18px;
+  padding-left: 15px;
   position: relative;
 }
 input {
@@ -51,7 +51,7 @@ input {
   font-family: "Dongle", sans-serif;
   font-size: 30px;
 }
-#record {
+#reset {
   border-radius: 50%;
   height: 20px;
   position: absolute;
