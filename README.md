@@ -4,7 +4,7 @@
   
   
   
-테스트 페이지 : https://yellowhan.github.io/timer_records/  
+테스트 페이지 : https://hellou8363.github.io/timer_records
   
 Start : 시작  
 Stop : 정지 - Start를 누르면 다시 진행  
